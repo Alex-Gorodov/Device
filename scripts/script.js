@@ -1,6 +1,7 @@
 
 // script for delivery modal window opening
 var deliveryModal = document.querySelector(".modal-container");
+
 function modalOpen() {
     deliveryModal.classList.add("modal-open");
 }
